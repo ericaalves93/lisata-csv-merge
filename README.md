@@ -14,7 +14,7 @@
 - Salve o arquivo localmente
 
 ##### Para exportar pesquisas com os alunos
-- Em cada item expandido, clique em **Aluanos**
+- Em cada item expandido, clique em **Alunos**
 - Na tela que foi aberta clique em **Exportar**
 - No modal que será aberto todos os itens que terminam com **| Pesquisa** devem ser baixados, é importante ressaltar que os itens devem ser baixados um a um
 - Salve os arquivos localmente
